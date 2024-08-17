@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on Framework bootstrap, tailwind, javascript, and php.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? u can add me on Discord (Son#6977)
-- ⚡ Fun fact: im fat
+- ⚡ Fun fact: 
 
 <!---
 WilsonKusmayady/WilsonKusmayady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
