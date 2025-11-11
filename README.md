@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I am a software developer specializing in **Backend Development**. I have expertise in building robust and scalable server-side services using **Python (Flask/Django)** and **Java (Spring Boot)**.
+I am a software developer specializing in **Backend Development**. I have expertise in building robust and scalable server-side services using **Node.js**, **Laravel**, and **Native PHP**.
 
 Currently, I am expanding my focus deeply into the world of **Cybersecurity**. I am passionate about **Network Security**, **Penetration Testing**, and finding vulnerabilities to build more secure systems.
 
@@ -17,7 +17,7 @@ Currently, I am expanding my focus deeply into the world of **Cybersecurity**. I
 
 * 🌱 I’m currently learning **[Mention a cyber concept, e.g., OWASP Top 10 Techniques, Malware Analysis, or Red Teaming]**.
 * 🔭 I’m interested in collaborating on **[Mention project type, e.g., open-source security projects or secure backend applications]**.
-* 💬 Ask me about: **Python, Java, Node.js, SQL, Network Security, and Pentest tools**.
+* 💬 Ask me about: **Node.js, Laravel, PHP, SQL, Network Security, and Pentest tools**.
 * 📫 How to reach me: **wilsonkusmayady@gmail.com**
 
 ---
@@ -26,17 +26,14 @@ Currently, I am expanding my focus deeply into the world of **Cybersecurity**. I
 
 <h4 align="center">💻 Backend Development</h4>
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java" />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot"/> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel" />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" />
   </a>
 </p>
 <p align="center">
@@ -92,7 +89,7 @@ Currently, I am expanding my focus deeply into the world of **Cybersecurity**. I
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilsonKusmayady&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <br /><br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonKusmayady&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&hide=php,blade" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonKusmayady&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
