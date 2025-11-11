@@ -1,29 +1,95 @@
-# Hi, I'm Wilson Kusmayady Lie 👋
+<h1 align="center">Halo, saya Wilson Kusmayady Lie 👋</h1>
+<h3 align="center">Software Developer | Python | Java | Full-Stack JavaScript</h3>
 
-I'm a Software Developer with a focus on building efficient and scalable applications. My primary expertise lies in Python, Java, and the full-stack JavaScript ecosystem.
-
----
-
-### 🛠️ Core Skillset
-
-My main areas of expertise are:
-
-* **Python:** (e.g., Django, Flask, Data Science, Scripting)
-* **Java:** (e.g., Spring Boot, Microservices, Enterprise Applications)
-* **JavaScript:** (e.g., React, Vue, ES6+, TypeScript)
-* **Node.js:** (e.g., Express.js, REST APIs, Backend Services)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header" width="800"/>
+</p>
 
 ---
 
-### 🌱 Currently Exploring
+### 👨‍💻 Tentang Saya
 
-* I'm currently working on **[Name of a Project or Technology]**.
-* I'm deepening my understanding of **[A Concept, e.g., System Design / DevOps / AI]**.
+Saya seorang pengembang perangkat lunak yang bersemangat dalam membangun solusi yang efisien dan skalabel. Saya memiliki pengalaman kuat dalam pengembangan backend menggunakan **Python** dan **Java**, serta keahlian dalam ekosistem **JavaScript** modern (termasuk **Node.js**) untuk aplikasi full-stack.
+
+<br />
+
+* 🌱 Saat ini saya sedang mendalami **[Sebutkan teknologi/konsep, misal: Microservices dengan Spring Boot & Docker]**.
+* 🔭 Saya tertarik untuk berkolaborasi dalam proyek **[Sebutkan jenis proyek, misal: open-source berbasis AI atau aplikasi web performa tinggi]**.
+* 💬 Tanya saya tentang: **Python (Django/Flask), Java (Spring Boot), JavaScript (React/Vue), dan Node.js (Express)**.
+* 📫 Cara cepat menghubungi saya: **[Email Anda]**
 
 ---
 
-### 📫 How to Reach Me
+### 🛠️ Tumpukan Teknologi (Tech Stack) Utama Saya
 
-* **LinkedIn:** linkedin.com/in/wilson-kusmayady-lie
-* **Email:** wilsonkusmayady@gmail.com
-* **Portfolio:** (Soon)
+Ini adalah bahasa dan teknologi inti yang saya gunakan sehari-hari.
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
+  </a>
+</p>
+
+<br />
+
+<details align="center">
+  <summary>✨ Klik untuk melihat teknologi & tools lainnya</summary>
+  <br />
+  <p align="center">
+    <strong>Frontend:</strong>
+    <br />
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS"/> </a>
+    <br />
+    <br />
+    <strong>Frameworks Backend:</strong>
+    <br />
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot"/> </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express.js"/> </a>
+    <br />
+    <br />
+    <strong>Database & Tools:</strong>
+    <br />
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/> </a>
+  </p>
+</details>
+
+---
+
+### 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAMEANDA]&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <br /><br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAMEANDA]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Mari Terhubung
+
+Jangan ragu untuk menghubungi saya!
+
+<p align="center">
+  <a href="https://linkedin.com/in/[USERNAMEANDA]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:[EMAILANDA]">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  </p>
