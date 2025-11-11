@@ -56,9 +56,6 @@ Currently, I am expanding my focus deeply into the world of **Cybersecurity**. I
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
   </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6600.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite" />
-  </a>
 </p>
 
 <details align="center">
