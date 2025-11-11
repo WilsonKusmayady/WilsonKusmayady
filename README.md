@@ -90,9 +90,9 @@ Currently, I am expanding my focus deeply into the world of **Cybersecurity**. I
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilsonKusmayady&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <br /><br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&hide=php,blade" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonKusmayady&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&hide=php,blade" alt="Top Languages" />
 </p>
 
 ---
