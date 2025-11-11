@@ -83,7 +83,7 @@ These are the languages and technologies I use daily.
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilsonKusmayady&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <br /><br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonKusmayady&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -93,10 +93,10 @@ These are the languages and technologies I use daily.
 Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+  <a href="https://linkedin.com/in/wilsonkusmayadylie" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:wilsonkusmayady@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   </p>
