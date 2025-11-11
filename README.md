@@ -1,4 +1,4 @@
-<h1 align="center">Halo, saya Wilson Kusmayady Lie 👋</h1>
+<h1 align="center">Hi there, I'm Wilson Kusmayady Lie 👋</h1>
 <h3 align="center">Software Developer | Python | Java | Full-Stack JavaScript</h3>
 
 <p align="center">
@@ -7,22 +7,22 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-Saya seorang pengembang perangkat lunak yang bersemangat dalam membangun solusi yang efisien dan skalabel. Saya memiliki pengalaman kuat dalam pengembangan backend menggunakan **Python** dan **Java**, serta keahlian dalam ekosistem **JavaScript** modern (termasuk **Node.js**) untuk aplikasi full-stack.
+I am a passionate software developer focused on building efficient and scalable solutions. I have strong experience in backend development using **Python** and **Java**, as well as expertise in the modern **JavaScript** ecosystem (including **Node.js**) for full-stack applications.
 
 <br />
 
-* 🌱 Saat ini saya sedang mendalami **[Sebutkan teknologi/konsep, misal: Microservices dengan Spring Boot & Docker]**.
-* 🔭 Saya tertarik untuk berkolaborasi dalam proyek **[Sebutkan jenis proyek, misal: open-source berbasis AI atau aplikasi web performa tinggi]**.
-* 💬 Tanya saya tentang: **Python (Django/Flask), Java (Spring Boot), JavaScript (React/Vue), dan Node.js (Express)**.
-* 📫 Cara cepat menghubungi saya: **[Email Anda]**
+* 🌱 I’m currently learning **[Mention a technology/concept, e.g., Microservices with Spring Boot & Docker]**.
+* 🔭 I’m interested in collaborating on **[Mention project type, e.g., open-source AI projects or high-performance web apps]**.
+* 💬 Ask me about: **Python (Django/Flask), Java (Spring Boot), JavaScript (React/Vue), and Node.js (Express)**.
+* 📫 How to reach me: **[Your Email]**
 
 ---
 
-### 🛠️ Tumpukan Teknologi (Tech Stack) Utama Saya
+### 🛠️ My Core Tech Stack
 
-Ini adalah bahasa dan teknologi inti yang saya gunakan sehari-hari.
+These are the languages and technologies I use daily.
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -39,10 +39,19 @@ Ini adalah bahasa dan teknologi inti yang saya gunakan sehari-hari.
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
+  </a>
+</p>
+
 <br />
 
 <details align="center">
-  <summary>✨ Klik untuk melihat teknologi & tools lainnya</summary>
+  <summary>✨ Click to see other technologies & tools</summary>
   <br />
   <p align="center">
     <strong>Frontend:</strong>
@@ -53,17 +62,15 @@ Ini adalah bahasa dan teknologi inti yang saya gunakan sehari-hari.
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS"/> </a>
     <br />
     <br />
-    <strong>Frameworks Backend:</strong>
+    <strong>Backend Frameworks:</strong>
     <br />
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot"/> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express.js"/> </a>
     <br />
     <br />
-    <strong>Database & Tools:</strong>
+    <strong>Tools & DevOps:</strong>
     <br />
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/> </a>
   </p>
@@ -71,25 +78,25 @@ Ini adalah bahasa dan teknologi inti yang saya gunakan sehari-hari.
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAMEANDA]&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilsonKusmayady&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <br /><br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAMEANDA]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Mari Terhubung
+### 📫 Let's Connect
 
-Jangan ragu untuk menghubungi saya!
+Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/[USERNAMEANDA]" target="_blank">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[EMAILANDA]">
+  <a href="mailto:[YOUR_EMAIL]">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   </p>
